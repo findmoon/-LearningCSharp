@@ -1,0 +1,6 @@
+# ignore img folder
+img/
+
+# 忽略所有md但排除
+*.md
+!*_Opt_ImgHost.md
